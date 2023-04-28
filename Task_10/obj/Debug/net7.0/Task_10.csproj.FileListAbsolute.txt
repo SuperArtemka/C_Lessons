@@ -1,0 +1,15 @@
+C:\Users\Artemka\Desktop\Разработчик\C#Lesson\Task_10\bin\Debug\net7.0\Task_10.exe
+C:\Users\Artemka\Desktop\Разработчик\C#Lesson\Task_10\bin\Debug\net7.0\Task_10.deps.json
+C:\Users\Artemka\Desktop\Разработчик\C#Lesson\Task_10\bin\Debug\net7.0\Task_10.runtimeconfig.json
+C:\Users\Artemka\Desktop\Разработчик\C#Lesson\Task_10\bin\Debug\net7.0\Task_10.dll
+C:\Users\Artemka\Desktop\Разработчик\C#Lesson\Task_10\bin\Debug\net7.0\Task_10.pdb
+C:\Users\Artemka\Desktop\Разработчик\C#Lesson\Task_10\obj\Debug\net7.0\Task_10.csproj.AssemblyReference.cache
+C:\Users\Artemka\Desktop\Разработчик\C#Lesson\Task_10\obj\Debug\net7.0\Task_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artemka\Desktop\Разработчик\C#Lesson\Task_10\obj\Debug\net7.0\Task_10.AssemblyInfoInputs.cache
+C:\Users\Artemka\Desktop\Разработчик\C#Lesson\Task_10\obj\Debug\net7.0\Task_10.AssemblyInfo.cs
+C:\Users\Artemka\Desktop\Разработчик\C#Lesson\Task_10\obj\Debug\net7.0\Task_10.csproj.CoreCompileInputs.cache
+C:\Users\Artemka\Desktop\Разработчик\C#Lesson\Task_10\obj\Debug\net7.0\Task_10.dll
+C:\Users\Artemka\Desktop\Разработчик\C#Lesson\Task_10\obj\Debug\net7.0\refint\Task_10.dll
+C:\Users\Artemka\Desktop\Разработчик\C#Lesson\Task_10\obj\Debug\net7.0\Task_10.pdb
+C:\Users\Artemka\Desktop\Разработчик\C#Lesson\Task_10\obj\Debug\net7.0\Task_10.genruntimeconfig.cache
+C:\Users\Artemka\Desktop\Разработчик\C#Lesson\Task_10\obj\Debug\net7.0\ref\Task_10.dll

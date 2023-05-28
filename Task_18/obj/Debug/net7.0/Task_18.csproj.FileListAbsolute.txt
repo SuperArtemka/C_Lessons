@@ -1,0 +1,15 @@
+C:\Users\Artemka\Desktop\Разработчик\C#Lesson\Task_18\obj\Debug\net7.0\Task_18.csproj.AssemblyReference.cache
+C:\Users\Artemka\Desktop\Разработчик\C#Lesson\Task_18\obj\Debug\net7.0\Task_18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artemka\Desktop\Разработчик\C#Lesson\Task_18\obj\Debug\net7.0\Task_18.AssemblyInfoInputs.cache
+C:\Users\Artemka\Desktop\Разработчик\C#Lesson\Task_18\obj\Debug\net7.0\Task_18.AssemblyInfo.cs
+C:\Users\Artemka\Desktop\Разработчик\C#Lesson\Task_18\obj\Debug\net7.0\Task_18.csproj.CoreCompileInputs.cache
+C:\Users\Artemka\Desktop\Разработчик\C#Lesson\Task_18\bin\Debug\net7.0\Task_18.exe
+C:\Users\Artemka\Desktop\Разработчик\C#Lesson\Task_18\bin\Debug\net7.0\Task_18.deps.json
+C:\Users\Artemka\Desktop\Разработчик\C#Lesson\Task_18\bin\Debug\net7.0\Task_18.runtimeconfig.json
+C:\Users\Artemka\Desktop\Разработчик\C#Lesson\Task_18\bin\Debug\net7.0\Task_18.dll
+C:\Users\Artemka\Desktop\Разработчик\C#Lesson\Task_18\bin\Debug\net7.0\Task_18.pdb
+C:\Users\Artemka\Desktop\Разработчик\C#Lesson\Task_18\obj\Debug\net7.0\Task_18.dll
+C:\Users\Artemka\Desktop\Разработчик\C#Lesson\Task_18\obj\Debug\net7.0\refint\Task_18.dll
+C:\Users\Artemka\Desktop\Разработчик\C#Lesson\Task_18\obj\Debug\net7.0\Task_18.pdb
+C:\Users\Artemka\Desktop\Разработчик\C#Lesson\Task_18\obj\Debug\net7.0\Task_18.genruntimeconfig.cache
+C:\Users\Artemka\Desktop\Разработчик\C#Lesson\Task_18\obj\Debug\net7.0\ref\Task_18.dll

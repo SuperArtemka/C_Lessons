@@ -1,5 +1,6 @@
 ﻿// Двумерный массив размером m×n, заполненный случайными целыми числами.
 
+
 void FillMatrixWhithRandomNumbers(int[,] matrix)
 {
 Random rnd = new Random();

@@ -1,5 +1,6 @@
 ﻿//  Программа, которая заменяет строки на столбцы.
 
+
 void FillMatrixWhithRandomNumbers(int[,] matrix)
 {
 Random rnd = new Random();

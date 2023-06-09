@@ -1,5 +1,6 @@
 ﻿// Двумерный массив. Найдите сумму элементов, находящихся на главной диагонали (с индексами (0,0); (1;1) и т.д.
 
+
 void FillMatrixWhithRandomNumbers(int[,] matrix)
 {
 Random rnd = new Random();
